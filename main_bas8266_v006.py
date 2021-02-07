@@ -31,7 +31,7 @@ class MyMachine:
     self.soil_dry = 20000 #CSensor >20000 /Annahme Test offen
     self.soil_ok = 15000 #CSensor 15000 bis 10000 /Annahme Test offen
     self.soil_humid = 10000 #CSensor 250 - bis 10000 /Annahme Test offen
-    #self.soil_humidity = None
+    self.soil_humidity = None
     self.activateAndClearDisplay()
     
   def activateAndClearDisplay(self):
