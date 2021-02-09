@@ -61,7 +61,7 @@ display.text('G', 105, 55) #Beschriftung Giessen
 #display.fill_rect(1, 24, 8, 7, 1) #Block 5 fill
 #display.fill_rect(1, 32, 8, 7, 1) #Block 4 fill
 #display.fill_rect(1, 40, 8, 7, 1) #Block 3 fill
-display.fill_rect(1, 48, 8, 7, 1) #Block 2 fill
+#display.fill_rect(1, 48, 8, 7, 1) #Block 2 fill
 display.fill_rect(1, 56, 8, 7, 1) #Block 1 fill = trocken
 print('Fuellstand Boden')
 #print(gc.mem_free())
